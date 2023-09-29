@@ -1,23 +1,24 @@
-Credits
-This project uses code from "whaticket-installer" created and maintained by "riservato-xyz".
+## Créditos
 
-Original Author: riservato-xyz
-Original Project: whaticket-installer
-GitHub Repository: https://github.com/riservato-xyz/whaticket-installer
-This modified installer is designed to install the source code of "whaticket-free" from the repository https://github.com/unkbot/whaticket-free, unlike the original "whaticket-installer" by riservato-xyz that installs the source code from 'canove'.
-
---------------------------------------------------------------------------------------------
-
-Créditos
+### Português
 Este projeto utiliza o código de "whaticket-installer", criado e mantido por "riservato-xyz".
 
-Autor Original: riservato-xyz
-Projeto Original: whaticket-installer
-Repositório no GitHub: https://github.com/riservato-xyz/whaticket-installer
-Este instalador modificado foi projetado para instalar o código fonte do "whaticket-free" a partir do repositório https://github.com/unkbot/whaticket-free, ao contrário do "whaticket-installer" original por riservato-xyz, que instala o código fonte de 'canove'.
+- **Autor Original:** riservato-xyz
+- **Projeto Original:** whaticket-installer
+- **Repositório no GitHub:** `https://github.com/riservato-xyz/whaticket-installer`
 
---------------------------------------------------------------------------------------------
+Este instalador modificado foi projetado para instalar o código fonte do "whaticket-free" a partir do repositório `https://github.com/unkbot/whaticket-free`, ao contrário do "whaticket-installer" original por riservato-xyz, que instala o código fonte de 'canove'.
 
+### English
+This project uses code from "whaticket-installer" created and maintained by "riservato-xyz".
+
+- **Original Author:** riservato-xyz
+- **Original Project:** whaticket-installer
+- **GitHub Repository:** `https://github.com/riservato-xyz/whaticket-installer`
+
+This modified installer is designed to install the source code of "whaticket-free" from the repository `https://github.com/unkbot/whaticket-free`, unlike the original "whaticket-installer" by riservato-xyz that installs the source code from 'canove'.
+
+## Instructions
 Interactive CLI tool for installing and updating whaticket
 
 ### download & setup
